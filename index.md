@@ -1,6 +1,6 @@
 # MOTHER - En français !
 
-Bienvenue sur le site de la traduction en français de MOTHER (également connu sous le nom de EARTHBOUND BEGINNINGS) ! Il s'agit d'un projet de traduction amateur vous étant proposé par Matthack et Gashomy.
+Bienvenue sur le site de la traduction en français de MOTHER (également connu sous le nom de **EARTHBOUND BEGINNINGS**/**EARTHBOUND ZERO**) ! Il s'agit d'un projet de traduction amateur vous étant proposé par Matthack et Gashomy.
 
 ## Un peu d'histoire
 
@@ -19,10 +19,10 @@ Nous voulons offrir au jeu une nouvelle traduction, plus fidèle au script origi
 Courant 2021, nous l'espérons ! Nous sommes assez occupés par notre vie personnelle, mais nous consacrons autant de temps que possible à ce projet, qui est pour le moment encore tout neuf.
 Voici, pour le moment, une liste de ce qui est traduit et reste à traduire :
 
-[ ] Objets
-[x] Pouvoirs PSY
-[x] Lieux
-[x] Menus
-[ ] Script (5%)
+ * [ ] Objets
+ * [x] Pouvoirs PSY
+ * [x] Lieux
+ * [x] Menus
+ * [ ] Script (5%)
 
 _Copyright ©️ 2021 Gashomy et Matthack. MOTHER est l'oeuvre et la propriété de Shigesato Itoi et de Nintendo. Nous ne sommes en aucun cas affiliés avec eux. Supportez la série MOTHER en achetant les produits officiels !_

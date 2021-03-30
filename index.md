@@ -1,6 +1,6 @@
 # MOTHER - En français !
 
-Bienvenue sur le site de la traduction en français de MOTHER (également connu sous le nom de **EARTHBOUND BEGINNINGS**/**EARTHBOUND ZERO**) ! Il s'agit d'un projet de traduction amateur vous étant proposé par Matthack et Gashomy.
+Bienvenue sur le site de la traduction en français de **MOTHER** (également connu sous le nom de **EARTHBOUND BEGINNINGS**/**EARTHBOUND ZERO**) ! Il s'agit d'un projet de traduction amateur vous étant proposé par Matthack et Gashomy.
 
 ## Un peu d'histoire
 
